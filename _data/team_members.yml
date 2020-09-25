@@ -7,20 +7,20 @@
   education2: Ph.D. Degree in Photonics Engineering, Photonics Research Group, Ghent University-imec, Ghent, Belgium
   education3:
 
-- name: Gorret Namulondo
-  photo: gorret.jpg
-  info: Graduate Research Assistant, netLabs!UG
-  email: namulondogorret@gmail.com
-  number_educ: 1
-  education1: BSc. Degree in Computer Engineering, Makerere University, Kampala, Uganda.
-  education2:
-
 - name: Moses Bomera
   photo: Moses.png
   info: Graduate Research Assistant, netLabs!UG
   email: mosesbomera@gmail.com
   number_educ: 1
   education1: BSc. Degree in Telecommunications Engineering, Makerere University, Kampala, Uganda.
+  education2:
+
+- name: Gorret Namulondo
+  photo: gorret.jpg
+  info: Graduate Research Assistant, netLabs!UG
+  email: namulondogorret@gmail.com
+  number_educ: 1
+  education1: BSc. Degree in Computer Engineering, Makerere University, Kampala, Uganda.
   education2:
 
 - name: "This could be you !"
