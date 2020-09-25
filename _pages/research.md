@@ -1,25 +1,22 @@
 ---
-title: "Allan Lab - Research"
+title: "Marconi Society Machine Learning Laboratory - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Marconi Society Machine Learning Laboratory -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+### A Portable Deep Learning-based Platform for Passion Fruit Disease Identification.
+Pests and diseases pose a key challenge to passion fruit farmers across the country. They lead to loss of investment as yields reduce and losses increases. As the majority of the farmers, including passion fruit farmers, in the country are smallholder farmers from low-income households, they do not have sufficient information and means to combat these challenges. Without the required knowledge about the health of their crops, farmers cannot intervene promptly to turn the situation around. This project addresses the problem of lack of a reliable, timely diagnostic platform for passion fruit diseases, proposing to develop a low-cost hand-held diagnostic device (based on low compute devices, specifically the raspberry)  making use of state-of-the-art machine learning techniques for identification. The performance and feasibility of the platform will be compared to that of a smartphone-based solution. The solution will be deployed and piloted with a select number of farmers who are already in partnership with National Agricultural Research Organization (NARO). We plan to use Azure services as the platform for training, deployment and monitoring (and re-training) of the model for passion fruit disease diagnosis.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+### Development of an Efficacious Patient Management System for Uganda using Machine Learning Techniques.
+Patient management is a collective term to describe the series of steps involved in handling a patient at a health facility right from acquisition of laboratory samples from the patient(s) through chemo-testing and dissemination of test results to the patient (s) and /or any other stake holder involved to prescription and administration of treatment to the patient(s). This process is currently performed on manual basis that is significantly hinged on active human (health worker) participation and intelligence (tacit knowledge). Failure probability of this process becomes more imminent with increasing numbers of patients. Therefore, scenarios that present an exponential rate of infection with time (a vivid case in point being COVID-19) make the process failure probability become even more
+imminent. This solution proposes substitution of human active participation and intelligence with the use of artificial intelligence. In this solution, an electronic based swab unit shall be built and configured to mine/acquisition data carrying COVID-19 intelligence​ from the patient and wirelessly relay this data to an intelligent node. The intelligent node shall be trained (using ML/DL algorithms) and deployed to receive this data and predict the COVID-19 status of a given patient and the most effectual treatment based on the test results. The intelligent node shall also be configured to format and disseminate the results of its analysis to nodes in a segment of stakeholders i.e. The Ministry of Health, research centers, law enforcement agencies like police etc. for purposes of decision making for
+management. Device networking shall be configured as a default to provide overall underlay device connectivity.
+Problem Effective 6th May 2020, the Government of Uganda initiated lifting and easing on some of the preventive measures that had earlier been put in place in response to the disease-attack. This has the power to increase the probability of new infections/day given the ease with which the virus is spread (with the rate of infection
+proving to be exponential). Such a scenario makes Uganda health system vulnerable to break down (especially when the total number of positive patients/days exceeds the maximum total number that can be handled in a day in the entire country) and ultimately presents a high probability of increased rate of daily patient mortality.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+### Real-time Tele-consultation for Cervical Cancer Screening Using a Machine Learning-enabled Mobile App.
