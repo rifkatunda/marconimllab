@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Makerere University that focuses on machine learning research in diverse areas including
   Health, Agriculture and Natural Language Processing.
 baseurl: ""
-url: ""
+url: "https://mosesbomera.github.io/marconimllab/"
 
 include:
   - .htaccess
@@ -28,8 +28,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 
 # Markdown Processing
 kramdown:
