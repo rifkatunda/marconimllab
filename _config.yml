@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Marconi Society Machine Learning Laboratory is a research initiative at netLabs!UG,
   Makerere University that focuses on machine learning research in diverse areas including
-  health, agriculture and natural language processing.
+  Health, Agriculture and Natural Language Processing.
 baseurl: ""
 url: ""
 
