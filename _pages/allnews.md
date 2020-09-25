@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Marconi Society Machine Learning Laboratory, Makerere University."
 sitemap: false
 permalink: /allnews.html
 ---
