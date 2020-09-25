@@ -58,9 +58,6 @@ Health, Agriculture and Natural Language Processing.
   </a>
 </div>
 
-
-
-
 **We are located at the College of Engineering, Design, Art and Technology in Makerere University.**
 
 We are grateful for funding and support from [Marconi Society](https://marconisociety.org/), [Makerere University](https://www.mak.ac.ug/) and [netLabs!UG](http://www.netlabsug.org/).
