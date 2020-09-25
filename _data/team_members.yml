@@ -23,10 +23,10 @@
   education1: BSc. Degree in Computer Engineering, Makerere University, Kampala, Uganda.
   education2:
 
-- name: "This could be you !"
+- name: "This could be you!"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: marconi@gmail.com
+  info: See <a href="http://">openings</a> for more info
+  email: andrewkatumba@cedat.mak.ac.ug
   number_educ: 0
   education1:
   education2:
