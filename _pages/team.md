@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Marconi Society Machine Learning Laboratory - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Marconi Society Machine Learning Laboratory: Team members"
 sitemap: false
 permalink: /team/
 ---
