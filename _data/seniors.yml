@@ -19,9 +19,9 @@
   photo: bio-photo.jpg
   info: Lecturer, Makerere University
   email: holder@email.com
-  number_educ: 1
-  education1: MSc. Degree in Communication Engineering, University of Manchester.
-  education2:
+  number_educ: 2
+  education1: Ph.D. Electrical and Electronics Engineering, University of Manchester.
+  education2: M.Sc. Degree in Communication Engineering, University of Manchester.
 
 - name: Jonathan Serugunda
   photo: bio-photo.jpg
