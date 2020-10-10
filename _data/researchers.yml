@@ -1,6 +1,7 @@
 - name: Moses Bomera
   photo: Moses.png
   info: Graduate Research Assistant, netLabs!UG
+  interests: Computer Vision, Natural Language Processing, Quantum Computing, Time Series.
   email: mosesbomera@gmail.com
   number_educ: 1
   education1: BSc. Degree in Telecommunications Engineering, Makerere University, Kampala, Uganda.
@@ -9,6 +10,7 @@
 - name: Gorret Namulondo
   photo: gorret.jpg
   info: Graduate Researcher, netLabs!UG
+  interests: Computer Vision
   email: namulondogorret@gmail.com
   number_educ: 1
   education1: BSc. Degree in Computer Engineering, Makerere University, Kampala, Uganda.
