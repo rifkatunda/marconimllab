@@ -23,7 +23,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+
+  <i>{{ member.info }}<br>Email: <{{ member.email }}> </i>
+  <br>Research Interests: {{ member.interests }}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -88,7 +91,10 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+
+  <i>{{ member.info }}<br>Email: <{{ member.email }}> </i>
+  <br>Research Interests: {{ member.interests }}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -137,9 +143,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-
-
 ## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -153,7 +156,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>Email: <{{ member.email }}> </i>
+  <br>Research Interests: {{ member.interests }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
